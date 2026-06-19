@@ -12,6 +12,7 @@ export default async function Page({
   // console.log('resolvedSearchParams=========>', resolvedSearchParams);
 
   const { catagory } = resolvedParams;
+  
 
   // console.log('catagory=========>', catagory);
   return (
